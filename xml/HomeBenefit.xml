@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item>
+
+    <title>Cash Wiring Fee</title>
+
+    <count>27</count>
+
+    <percent>36</percent>
+  </item>
+  <item>
+    <title>$5,000 Burglary-Member (Canada)</title>
+    <count>12</count>
+    <percent>16</percent>
+  </item>
+  <item>
+    <title>$500 Home Deductible</title>
+    <count>9</count>
+    <percent>12</percent>
+  </item>
+  <item>
+    <title>$5,000 Burglary-Member</title>
+    <count>6</count>
+    <percent>8</percent>
+  </item>
+  <item>
+    <title>Extended Warranty</title>
+    <count>5</count>
+    <percent>7</percent>
+  </item>
+  <item>
+    <title>$5,000 Kidnapping Reward</title>
+    <count>5</count>
+    <percent>7</percent>
+  </item>
+  <item>
+    <title>$5,000 Burglary-Neighbor</title>
+    <count>2</count>
+    <percent>3</percent>
+  </item>
+  <item>
+    <title>$5,000 Burglary-Watch Program</title>
+    <count>2</count>
+    <percent>3</percent>
+  </item>
+  <item>
+    <title>$500 Home Deductible Reimbursement (Canada)</title>
+    <count>2</count>
+    <percent>3</percent>
+  </item>
+  <item>
+    <title>Unlimited Locksmith-Home</title>
+    <count>2</count>
+    <percent>3</percent>
+  </item>
+  <item>
+    <title>$50 Credit Card Security</title>
+    <count>1</count>
+    <percent>1</percent>
+  </item>
+  <item>
+    <title>$150 Locksmith-Home</title>
+    <count>1</count>
+    <percent>1</percent>
+  </item>
+  <item>
+    <title>Total</title>
+    <count>74</count>
+  </item>
+
+</items>

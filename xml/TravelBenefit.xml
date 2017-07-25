@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<items>
+  <item>
+    <title>Travel Service</title>
+    <count>256</count>
+    <percent>60</percent>
+  </item>
+  <item>
+    <title>Car Rental Discounts</title>
+    <count>169</count>
+    <percent>40</percent>
+  </item>
+  <item>
+    <title>Travel Assistance Benefit</title>
+    <count>1</count>
+    <percent>0</percent>
+  </item>
+  <item>
+    <title>Benefit UAT</title>
+    <count>1</count>
+    <percent>0</percent>
+  </item>
+  <item>
+    <title>Total</title>
+    <count>427</count>
+  </item>
+</items>
